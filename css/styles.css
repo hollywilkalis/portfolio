@@ -86,6 +86,20 @@ p.description {
 }
 
 .content-box {
-  margin-bottom: 60px;
-  padding: 4px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.bordered {
+  border-bottom-width: 0px;
+  border-top-width: 2px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-style: solid;
+  border-color: #903636;
+  padding-top: 15px;
+}
+
+.colored-background {
+  background-color: #d1e6f0
 }
