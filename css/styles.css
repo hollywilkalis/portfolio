@@ -1,5 +1,32 @@
 h1 {
-  color: #0ea7b5;
+  color: #1b85b8;
   font-size: 40px;
   font-family: sans-serif;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  color: #ae5a41;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  color: #5cb85c;
+  font-size: 25px;
+  font-family: sans-serif;
+  margin-top: 2em;
+}
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.card-title {
+  color: #2a4f41;
+  font-weight: bold;
 }
