@@ -34,3 +34,17 @@ p {
 .card {
   margin-bottom: 1em;
 }
+
+.use {
+  color: #2a4f41;
+  font-weight: light;
+}
+
+li {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.btn {
+  background-color: #1b85b8;
+}
