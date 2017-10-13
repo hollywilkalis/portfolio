@@ -7,7 +7,7 @@ h1 {
 }
 
 h2 {
-  color: #ae5a41;
+  color: #104f6e;
   font-size: 30px;
   font-family: sans-serif;
   margin-top: 1em;
@@ -19,6 +19,16 @@ h3 {
   font-size: 25px;
   font-family: sans-serif;
   margin-top: 2em;
+}
+
+h4 {
+  color: #ae5a41;
+  margin-bottom: 1em;
+}
+
+h5 {
+  margin-top: 2em;
+  font-weight: bold;
 }
 
 p {
@@ -47,4 +57,35 @@ li {
 
 .btn {
   background-color: #1b85b8;
+}
+
+.photo {
+  margin-right: 20px;
+  margin-bottom: 5px;
+  border: 10px;
+  border-style: solid;
+  border-color: #192f27;
+  padding: 7px;
+  border-radius: 10px;
+  float: left;
+}
+
+.photo-right {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  border: 10px;
+  border-style: solid;
+  border-color: #192f27;
+  padding: 7px;
+  border-radius: 10px;
+  float: right;
+}
+
+p.description {
+  font-size: 18px;
+}
+
+.content-box {
+  margin-bottom: 60px;
+  padding: 4px;
 }
