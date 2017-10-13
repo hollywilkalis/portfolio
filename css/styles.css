@@ -30,3 +30,7 @@ p {
   color: #2a4f41;
   font-weight: bold;
 }
+
+.card {
+  margin-bottom: 1em;
+}
