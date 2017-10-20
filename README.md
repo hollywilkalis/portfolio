@@ -13,11 +13,7 @@ _Static website created as a skills demonstration. No special skills or tools ar
 * _You can view this demo site at https://hollywilkalis.github.io/portfolio/_
 
 _To duplicate this site: _
-_1. Go to https://github.com/hollywilkalis/portfolio _
-_2. Click the "Clone or Download" button._
-_3. Follow the prompts to download the ZIP file._
-_4. Locate the ZIP file in your downloads folder (or whatever folder you saved the file to)._
-_5. All necessary files will be enclosed in the ZIP folder. Depending on your system settings you may need to run an unzip utility before beginning to work with the files._
+_(1) Go to https://github.com/hollywilkalis/portfolio. (2) Click the "Clone or Download" button. (3) Follow the prompts to download the ZIP file. (4) Locate the ZIP file in your downloads folder (or whatever folder you saved the file to). (5) All necessary files will be enclosed in the ZIP folder. Depending on your system settings you may need to run an unzip utility before beginning to work with the files._
 
 ## Support and contact details
 
