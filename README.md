@@ -10,12 +10,14 @@ _Static website created as a skills demonstration. No special skills or tools ar
 
 ## Setup/Installation Requirements
 
-* _None_
+* _You can view this demo site at https://hollywilkalis.github.io/portfolio/_
 
-
-## Known Bugs
-
-_None at this time_
+_To duplicate this site: _
+_1. Go to https://github.com/hollywilkalis/portfolio _
+_2. Click the "Clone or Download" button._
+_3. Follow the prompts to download the ZIP file._
+_4. Locate the ZIP file in your downloads folder (or whatever folder you saved the file to)._
+_5. All necessary files will be enclosed in the ZIP folder. Depending on your system settings you may need to run an unzip utility before beginning to work with the files._
 
 ## Support and contact details
 
